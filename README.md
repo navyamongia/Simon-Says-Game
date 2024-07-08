@@ -1,9 +1,3 @@
-# Simon-Says-Game
-An online version of the famous simon says game using HTML, CSS and JavaScript
-
-Certainly! Here’s a README template for a Simon Says game created with HTML, CSS, and JavaScript:
-
----
 
 # Simon Says Game
 
@@ -36,7 +30,7 @@ To run this game locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd simon-says-game
+   cd Simon-Says-Game
    ```
 3. Open `index.html` in your preferred web browser.
 
